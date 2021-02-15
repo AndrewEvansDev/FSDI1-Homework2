@@ -1,0 +1,39 @@
+body{
+    background-color: aquamarine;
+    color: #004d33;
+    font-family: 'Roboto', sans-serif;
+}
+.orin{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    padding: 0px 100px 0px 100px;
+    background-color: rgb(0, 41, 0);
+    text-align: center;
+    text-shadow: 2px 1px rgb(0, 252, 0);
+    letter-spacing: -10px;
+    word-spacing: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-color: white;
+    border-width: 2px;
+    border: solid;
+
+}
+
+h1{
+    color: rgb(0, 29, 0);
+    text-align: center;
+    text-shadow: 1px 1px rgb(2, 160, 28);
+    word-spacing: 7px;
+    letter-spacing: 5px;
+}
+p{
+    line-height: 20px;
+    text-align:center;
+    word-spacing:2px;
+
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
